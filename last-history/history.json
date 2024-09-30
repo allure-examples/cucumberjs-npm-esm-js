@@ -1,0 +1,1 @@
+{"0271c866fc08eaa30fbc7aca173d6763:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"3dbc9307dcc6cc9a","reportUrl":"https://allure-examples.github.io/cucumberjs-npm-esm-js/1//#testresult/3dbc9307dcc6cc9a","status":"passed","time":{"start":1727707526303,"stop":1727707526313,"duration":10}}]}}
